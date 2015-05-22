@@ -1,7 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## Getting the Cached values in order to input into cacheSolve() function
+## via creating the cacheable matrix:
 
 makeCacheMatrix <- function(x = matrix()) {
 
